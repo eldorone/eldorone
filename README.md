@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **eldoralikuvvatov@gmail.com**
 
-- ⚡ Fun fact **I like to learn a new culture**
+- ⚡ Fun fact: **I like to travel a lot and explore new places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
