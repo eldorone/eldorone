@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQH2vWPTyaXCFQ/profile-displaybackgroundimage-shrink_350_1400/0/1662894413681?e=1670457600&v=beta&t=UPC0crRPPZ78SoIwudcEPfTTCkMQEPAwRJBnIactN9Y)
 <h1 align="center">Hi there 👋, I'm Eldor Alikuvvatov</h1>
 <h3 align="center">A passionate iOS Developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldorone&label=Profile%20views&color=0e75b6&style=flat" alt="eldorone" /> </p>
 
