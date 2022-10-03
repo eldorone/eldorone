@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Objective-C, SwiftUI**
 
-- 💬 Ask me about **Swift, Objective-C, C++, C#**
+- 💬 Ask me about **Swift, Objective-C, C, C++, C#**
 
 - 📫 How to reach me **eldoralikuvvatov@gmail.com**
 
