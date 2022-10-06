@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 🙂, I'm Eldor</h1>
 <h3 align="center">A passionate iOS Developer from Earth 🌍</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldorone&label=Profile%20views&color=0e75b6&style=flat" alt="eldorone" /> </p>
 
