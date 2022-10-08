@@ -35,5 +35,5 @@
 <br />
 <br />
 <br />
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorone&theme=dark&" alt="eldorone" /></p>
+gotham
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorone&theme=gotham&" alt="eldorone" /></p>
