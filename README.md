@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **WeatheCast - weather app**
+- 🔭 I’m currently working on **ByteCoin - Crypto Currency app**
 
 - 🌱 I’m currently learning **Objective-C, SwiftUI**
 
