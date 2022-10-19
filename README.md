@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldorone&theme=dark&show_icons=true&locale=en&layout=compact" alt="eldorone" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eldorone&theme=dark&show_icons=true&locale=en" alt="eldorone" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorone&theme=gotham&" alt="eldorone" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorone&theme=dark&" alt="eldorone" /></p>
