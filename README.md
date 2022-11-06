@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **FlashTalk - Messenger App**
 
-- 🌱 I’m currently learning **Objective-C, SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **Swift, Objective-C, C, C++, C#**
 
