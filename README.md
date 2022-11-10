@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Todooz - To Do List App**
+- 🔭 I’m currently working on **Todooz - To do list Application**
 
 - 🌱 I’m currently learning **SwiftUI & Objective-C**
 
