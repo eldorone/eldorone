@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **FlashTalk - Messenger App**
+- 🔭 I’m currently working on **TripleTee - Tic Tac Toe Game App**
 
 - 🌱 I’m currently learning **SwiftUI & Objective-C**
 
