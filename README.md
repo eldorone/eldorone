@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **TripleTee - Tic Tac Toe Game App**
+- 🔭 I’m currently working on **Todooz - To Do List App**
 
 - 🌱 I’m currently learning **SwiftUI & Objective-C**
 
