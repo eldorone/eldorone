@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🙂, I'm Eldor Alikuvvatov</h1>
+<h1 align="center">Hi there 🙂, I'm Eldor</h1>
 <h3 align="center">A passionate iOS Developer from Earth 🌍</h3>
 <img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif">
 
