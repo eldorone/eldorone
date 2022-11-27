@@ -39,5 +39,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldorone&theme=gotham&show_icons=true&locale=en&layout=compact" alt="eldorone"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eldorone&theme=gotham&show_icons=true&locale=en" alt="eldorone"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eldorone&theme=dark&show_icons=true&locale=en" alt="eldorone"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorone&theme=gotham&" alt="eldorone"/></p>
