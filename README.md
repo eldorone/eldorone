@@ -12,7 +12,7 @@
 
 - 💬 Let's have a conversation about **JavaScript and its amazing/powerful frameworks**
 
-- 📫 How to reach me **eldoroneinbox@gmail.com**
+- 📫 How to reach me **eldoralikuvvatov@gmail.com** | | **eldoroneinbox@gmail.com**
 
 - ⚡ Fun fact: **I like to travel and explore new places**
 
