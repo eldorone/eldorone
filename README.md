@@ -6,9 +6,9 @@
 
 
 - 📋 You can check out my [RESUME](https://bit.ly/3Ikuklr)
-- 🔭 I’m currently working on **Portfolio - The show case website for Personal Projects**
+- 🔭 I’m currently working on **Innerview Web App- The show case Home Page for the company**
 
-- 👨🏻‍💻 I'm working with **JavaScript and its frameworks: React, Node, Next, Vue, Angular**
+- 👨🏻‍💻 I'm working with **JavaScript and its frameworks: React, Node, Next, Webpack and Redux**
 
 - 💬 Let's have a conversation about **JavaScript and its amazing/powerful frameworks**
 
