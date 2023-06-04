@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldorone&label=Profile%20views&color=0e75b6&style=flat" alt="eldorone" /> </p>
 
 
-- 📋 You can check out my [RESUME](https://bit.ly/3Ikuklr)
+- 📋 You can check out my [RESUME]([https://bit.ly/3Ikuklr](https://drive.google.com/drive/folders/1WMClo0I_8cwyoEYjtApmPYSb71gS3H4z?usp=sharing))
 - 🔭 I’m currently working on **Innerview Web App- The showcase Home Page for the company**
 
 - 👨🏻‍💻 I'm working with **JavaScript and its frameworks: React, Node, Next, Webpack and Redux**
