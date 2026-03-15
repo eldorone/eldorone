@@ -12,7 +12,7 @@
 
 - 💬 Let's have a conversation about **Python, and its amazing/powerful frameworks**
 
-- 📫 How to reach me **eldoralikuvvatov@gmail.com**
+- 📫 Reach out **eldoralikuvvatov@gmail.com**
 
 - ⚡ Fun fact: **I like to travel and explore new places**
 
