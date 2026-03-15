@@ -6,13 +6,13 @@
 
 
 - 📋 You can check out my [RESUME](https://drive.google.com/drive/u/1/folders/1BztT_TtEDtK1WZPxlVJ58xPAA82nSgqw)
-- 🔭 I’m currently working on **Innerview Web App- The showcase Home Page for the company**
+- 🔭 I’m currently working on **Eldorone Web App - The showcase Home Page for all my personal projects**
 
-- 👨🏻‍💻 I'm working with **JavaScript and its frameworks: React, Node, Next, Webpack and Redux**
+- 👨🏻‍💻 I'm working with **Python and its frameworks: Django, FastAPI, Flask, Pyramid, Tornado, TensorFlow, PyTorch**
 
-- 💬 Let's have a conversation about **JavaScript and its amazing/powerful frameworks**
+- 💬 Let's have a conversation about **Python, and its amazing/powerful frameworks**
 
-- 📫 How to reach me **eldoralikuvvatov@gmail.com** | | **eldoroneinbox@gmail.com**
+- 📫 How to reach me **eldoralikuvvatov@gmail.com**
 
 - ⚡ Fun fact: **I like to travel and explore new places**
 
